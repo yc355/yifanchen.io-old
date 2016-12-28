@@ -1,4 +1,4 @@
-baseurl = "http://yifanchen.io/"
+baseurl = "https://yifanchen.io/"
 builddrafts = false
 canonifyurls = true
 contentdir = "content"
