@@ -1,12 +1,21 @@
+.post li {
+  text-indent: -2em;
+  padding-left: 3em;
+}
+
 .description {
   font-size: 12px;
   margin-bottom: 10px;
 }
 
-.projects {
+.projects-list {
   margin-bottom: 60px;
 }
 
-.tko-title {
+.projects-item {
+  margin-bottom: 18px;
+}
+
+.projects-title {
   font-size: 28px;
 }
